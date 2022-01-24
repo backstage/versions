@@ -1,1 +1,317 @@
-{"packages": []}
+{
+  "releaseVersion": "0.1",
+  "packages": [
+    {
+      "name": "@backstage/app-defaults",
+      "version": "0.1.5"
+    },
+    {
+      "name": "@backstage/backend-common",
+      "version": "0.10.4"
+    },
+    {
+      "name": "@backstage/backend-tasks",
+      "version": "0.1.4"
+    },
+    {
+      "name": "@backstage/backend-test-utils",
+      "version": "0.1.14"
+    },
+    {
+      "name": "@backstage/catalog-client",
+      "version": "0.5.5"
+    },
+    {
+      "name": "@backstage/catalog-model",
+      "version": "0.9.10"
+    },
+    {
+      "name": "@backstage/cli",
+      "version": "0.12.0"
+    },
+    {
+      "name": "@backstage/cli-common",
+      "version": "0.1.6"
+    },
+    {
+      "name": "@backstage/codemods",
+      "version": "0.1.30"
+    },
+    {
+      "name": "@backstage/config",
+      "version": "0.1.13"
+    },
+    {
+      "name": "@backstage/config-loader",
+      "version": "0.9.3"
+    },
+    {
+      "name": "@backstage/core-app-api",
+      "version": "0.5.0"
+    },
+    {
+      "name": "@backstage/core-components",
+      "version": "0.8.5"
+    },
+    {
+      "name": "@backstage/core-plugin-api",
+      "version": "0.6.0"
+    },
+    {
+      "name": "@backstage/create-app",
+      "version": "0.4.14"
+    },
+    {
+      "name": "@backstage/dev-utils",
+      "version": "0.2.18"
+    },
+    {
+      "name": "@backstage/errors",
+      "version": "0.2.0"
+    },
+    {
+      "name": "@backstage/integration",
+      "version": "0.7.2"
+    },
+    {
+      "name": "@backstage/integration-react",
+      "version": "0.1.19"
+    },
+    {
+      "name": "@backstage/search-common",
+      "version": "0.2.1"
+    },
+    {
+      "name": "@techdocs/cli",
+      "version": "0.8.11-next.0"
+    },
+    {
+      "name": "@backstage/techdocs-common",
+      "version": "0.11.4"
+    },
+    {
+      "name": "@backstage/test-utils",
+      "version": "0.2.3"
+    },
+    {
+      "name": "@backstage/theme",
+      "version": "0.2.14"
+    },
+    {
+      "name": "@backstage/types",
+      "version": "0.1.1"
+    },
+    {
+      "name": "@backstage/version-bridge",
+      "version": "0.1.1"
+    },
+    {
+      "name": "@backstage/plugin-allure",
+      "version": "0.1.12"
+    },
+    {
+      "name": "@backstage/plugin-analytics-module-ga",
+      "version": "0.1.7"
+    },
+    {
+      "name": "@backstage/plugin-app-backend",
+      "version": "0.3.22"
+    },
+    {
+      "name": "@backstage/plugin-auth-backend",
+      "version": "0.7.0"
+    },
+    {
+      "name": "@backstage/plugin-azure-devops",
+      "version": "0.1.11"
+    },
+    {
+      "name": "@backstage/plugin-azure-devops-backend",
+      "version": "0.3.1"
+    },
+    {
+      "name": "@backstage/plugin-azure-devops-common",
+      "version": "0.2.0"
+    },
+    {
+      "name": "@backstage/plugin-badges-backend",
+      "version": "0.1.16"
+    },
+    {
+      "name": "@backstage/plugin-bazaar",
+      "version": "0.1.10"
+    },
+    {
+      "name": "@backstage/plugin-bazaar-backend",
+      "version": "0.1.7"
+    },
+    {
+      "name": "@backstage/plugin-catalog",
+      "version": "0.7.9"
+    },
+    {
+      "name": "@backstage/plugin-catalog-backend",
+      "version": "0.21.0"
+    },
+    {
+      "name": "@backstage/plugin-catalog-backend-module-ldap",
+      "version": "0.3.10"
+    },
+    {
+      "name": "@backstage/plugin-catalog-backend-module-msgraph",
+      "version": "0.2.13"
+    },
+    {
+      "name": "@backstage/plugin-catalog-common",
+      "version": "0.1.1"
+    },
+    {
+      "name": "@backstage/plugin-catalog-graph",
+      "version": "0.2.7"
+    },
+    {
+      "name": "@backstage/plugin-catalog-import",
+      "version": "0.7.10"
+    },
+    {
+      "name": "@backstage/plugin-catalog-react",
+      "version": "0.6.12"
+    },
+    {
+      "name": "@backstage/plugin-circleci",
+      "version": "0.2.35"
+    },
+    {
+      "name": "@backstage/plugin-cost-insights",
+      "version": "0.11.18"
+    },
+    {
+      "name": "@backstage/plugin-explore",
+      "version": "0.3.26"
+    },
+    {
+      "name": "@backstage/plugin-explore-react",
+      "version": "0.0.11"
+    },
+    {
+      "name": "@backstage/plugin-firehydrant",
+      "version": "0.1.13"
+    },
+    {
+      "name": "@backstage/plugin-fossa",
+      "version": "0.2.28"
+    },
+    {
+      "name": "@backstage/plugin-github-actions",
+      "version": "0.4.32"
+    },
+    {
+      "name": "@backstage/plugin-gitops-profiles",
+      "version": "0.3.14"
+    },
+    {
+      "name": "@backstage/plugin-gocd",
+      "version": "0.1.2"
+    },
+    {
+      "name": "@backstage/plugin-graphiql",
+      "version": "0.2.28"
+    },
+    {
+      "name": "@backstage/plugin-graphql-backend",
+      "version": "0.1.12"
+    },
+    {
+      "name": "@backstage/plugin-jenkins",
+      "version": "0.5.18"
+    },
+    {
+      "name": "@backstage/plugin-jenkins-backend",
+      "version": "0.1.11"
+    },
+    {
+      "name": "@backstage/plugin-kafka-backend",
+      "version": "0.2.15"
+    },
+    {
+      "name": "@backstage/plugin-kubernetes-backend",
+      "version": "0.4.4"
+    },
+    {
+      "name": "@backstage/plugin-lighthouse",
+      "version": "0.2.35"
+    },
+    {
+      "name": "@backstage/plugin-newrelic",
+      "version": "0.3.14"
+    },
+    {
+      "name": "@backstage/plugin-rollbar",
+      "version": "0.3.24"
+    },
+    {
+      "name": "@backstage/plugin-rollbar-backend",
+      "version": "0.1.19"
+    },
+    {
+      "name": "@backstage/plugin-scaffolder",
+      "version": "0.12.0"
+    },
+    {
+      "name": "@backstage/plugin-scaffolder-backend",
+      "version": "0.15.21"
+    },
+    {
+      "name": "@backstage/plugin-scaffolder-backend-module-rails",
+      "version": "0.2.4"
+    },
+    {
+      "name": "@backstage/plugin-scaffolder-backend-module-yeoman",
+      "version": "0.1.3"
+    },
+    {
+      "name": "@backstage/plugin-scaffolder-common",
+      "version": "0.1.3"
+    },
+    {
+      "name": "@backstage/plugin-sentry",
+      "version": "0.3.34"
+    },
+    {
+      "name": "@backstage/plugin-sonarqube",
+      "version": "0.2.13"
+    },
+    {
+      "name": "@backstage/plugin-tech-insights-backend",
+      "version": "0.2.1"
+    },
+    {
+      "name": "@backstage/plugin-tech-insights-backend-module-jsonfc",
+      "version": "0.1.6"
+    },
+    {
+      "name": "@backstage/plugin-tech-insights-common",
+      "version": "0.2.1"
+    },
+    {
+      "name": "@backstage/plugin-tech-insights-node",
+      "version": "0.2.0"
+    },
+    {
+      "name": "@backstage/plugin-tech-radar",
+      "version": "0.5.3"
+    },
+    {
+      "name": "@backstage/plugin-techdocs",
+      "version": "0.13.0"
+    },
+    {
+      "name": "@backstage/plugin-techdocs-backend",
+      "version": "0.13.0"
+    },
+    {
+      "name": "@backstage/plugin-user-settings",
+      "version": "0.3.17"
+    }
+  ]
+}
