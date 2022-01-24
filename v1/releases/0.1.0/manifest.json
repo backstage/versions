@@ -1,5 +1,5 @@
 {
-  "releaseVersion": "0.1",
+  "releaseVersion": "0.1.0",
   "packages": [
     {
       "name": "@backstage/app-defaults",
