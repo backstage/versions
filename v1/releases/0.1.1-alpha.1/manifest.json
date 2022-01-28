@@ -1,0 +1,13 @@
+{
+  "releaseVersion": "0.1.1-alpha.1",
+  "packages": [
+    {
+      "name": "@backstage/cli",
+      "version": "0.1.1-alpha.1"
+    },
+    {
+      "name": "@backstage/core",
+      "version": "0.1.1-alpha.1"
+    }
+  ]
+}
