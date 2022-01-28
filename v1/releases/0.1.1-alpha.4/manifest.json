@@ -1,0 +1,25 @@
+{
+  "releaseVersion": "0.1.1-alpha.4",
+  "packages": [
+    {
+      "name": "@backstage/cli",
+      "version": "0.1.1-alpha.4"
+    },
+    {
+      "name": "@backstage/core",
+      "version": "0.1.1-alpha.4"
+    },
+    {
+      "name": "@backstage/test-utils",
+      "version": "0.1.1-alpha.4"
+    },
+    {
+      "name": "@backstage/test-utils-core",
+      "version": "0.1.1-alpha.4"
+    },
+    {
+      "name": "@backstage/theme",
+      "version": "0.1.1-alpha.4"
+    }
+  ]
+}
