@@ -311,7 +311,7 @@
     },
     {
       "name": "@backstage/plugin-catalog-backend-module-gitlab",
-      "version": "0.3.15"
+      "version": "0.3.16"
     },
     {
       "name": "@backstage/plugin-catalog-backend-module-gitlab-org",
